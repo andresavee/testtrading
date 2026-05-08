@@ -93,7 +93,7 @@ const MASTER_CREDENTIALS = {
   },
   'ana@vtrading.com': {
     password: 'ana1234',
-    id: 2, name: 'Ana García', role: 'user', idcard: 'VT-002',
+    id: 2, name: 'Ana García', role: 'admin', idcard: 'VT-002',
     status: 'active', created: '2024-02-20',
     balance: 23150.00, balanceInvested: 5000.00, todayProfit: 312.50,
     holdings: [],
